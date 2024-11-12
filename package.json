@@ -1,0 +1,22 @@
+{
+  "name": "escos",
+  "version": "0.1.0",
+  "description": "AskUs app replica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katinguele/escos.git"
+  },
+  "author": "Duarte & Almeida Associados",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katinguele/escos/issues"
+  },
+  "homepage": "https://github.com/katinguele/escos#readme",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
